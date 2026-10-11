@@ -19,7 +19,7 @@
 | [DHT11](https://www.lcsc.com/product-detail/C117051.html?s_z=n_q_C117051&globalKeyword=C117051) | Environment sensor | 1 | $1.46 | $1.46 | [LCSC](https://www.lcsc.com/product-detail/C117051.html?s_z=n_q_C117051&globalKeyword=C117051) |
 | [XIAO-ESP32-C3-SMD](https://www.lcsc.com/product-detail/C18212168.html?s_z=n_q_113991054&spm=wm.fly.bg.0.xh&lcsc_vid=Q1lXAQFQQlVeVV0CQgQNBFMFFVBdBlZXTwBYBAVTQgAxVlNfRlZdVV1SQFJbUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHkteQlVADxALGw%3D%3D) | Main microcontroller | 1 | $6.56 | $6.56 | [LCSC](https://www.lcsc.com/product-detail/C18212168.html?s_z=n_q_113991054&spm=wm.fly.bg.0.xh&lcsc_vid=Q1lXAQFQQlVeVV0CQgQNBFMFFVBdBlZXTwBYBAVTQgAxVlNfRlZdVV1SQFJbUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHkteQlVADxALGw%3D%3D) |
 | **Parts subtotal** | — | — | — | **$16.12** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$16.12** | — |
+| **Tax & shipping** | — | — | — | **$10.00** | — |
+| **Total** | — | — | — | **$26.12** | — |
 
-$13.88 left of the tier's funding.
+$3.88 left of the tier's funding.
