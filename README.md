@@ -16,4 +16,6 @@ I built this project to learn how to design a complete PCB, route connections, a
 
 Everything was designed and routed in KiCad, focusing on clean trace routing and proper component layout for safe soldering and operation.
 
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fmplantzasargiris-dotcom%2Fstarbie)
+
 <img width="1920" height="1080" alt="Capture" src="https://github.com/user-attachments/assets/636013b9-8437-4ee5-b939-ef6ce2320b77" />
