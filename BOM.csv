@@ -1,3 +1,3 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-Standard Starbie Kit (provided by hack club),1,0.00,0.00,https://github.com/hackclub/starbie
-Estimated total shipping,1,,,$0.00,
+part name,quantity,unit price ($),total price ($),item link
+Standard Starbie Kit (Provided by Hack Club),1,0.00,0.00,https://github.com/hackclub/starbie
+Total Price:, , ,0.00,
